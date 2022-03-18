@@ -1,3 +1,8 @@
 h1 {
     background-color: hsl(150, 50%, 50%);
+    text-align: center;
+}
+
+ul {
+    text-align: right;
 }
